@@ -40,4 +40,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=psb-30&label=Profile%20views&color=0e75b6&style=flat" alt="psb-30" /> </p>
+
+<h3 align="left">Tech Journey 🚶‍♂️🌍✈️🗺️⏳🏞️🌟:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psb-30&show_icons=true&locale=en&layout=compact" alt="psb-30" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psb-30&show_icons=true&locale=en" alt="psb-30" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psb-30&" alt="psb-30" /></p>
+
 ###
